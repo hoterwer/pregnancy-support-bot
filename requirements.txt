@@ -1,2 +1,6 @@
 aiogram>=3.0.0
 rapidfuzz
+python-dotenv
+httpx
+apscheduler
+asyncpg
